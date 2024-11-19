@@ -1,0 +1,15 @@
+# Ignorer les environnements virtuels
+venv/
+jupyterlab-venv/
+
+# Ignorer les fichiers temporaires
+*.log
+*.pyc
+__pycache__/
+
+# Ignorer les checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Ignorer les caches et autres fichiers spécifiques
+.cache/
+.c9/
